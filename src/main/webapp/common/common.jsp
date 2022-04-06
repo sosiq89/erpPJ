@@ -97,7 +97,7 @@
 
 	<div class="container">
 		<h3>Navbar With Dropdown</h3>
-		<p>This example adds a dropdown menu for the "Page 1" button in
+		<p>This example adds a dropdown menu for the "Page 111" button in
 			the navigation bar.</p>
 	</div>
 
